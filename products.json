@@ -1,0 +1,10 @@
+{
+    "headphones": {
+        "price": 30.0,
+        "description": "Experience audio bliss with these headphones. Immerse yourself in rich, clear sound and enjoy comfortable wear for hours on end."
+    },
+    "gaming laptop": {
+        "price": 400.0,
+        "description": "This high-performance laptop is designed for gamers seeking a competitive edge. Featuring cutting-edge graphics and a high-refresh rate display, it delivers smooth, immersive gaming experiences. Its advanced cooling system ensures optimal performance even during intense gaming sessions."
+    }
+}
